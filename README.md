@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=shubhamprasad285&count=1&unique=true)](https://open.spotify.com/user/shubhamprasad285)
+<a href="https://shubhampsd.pythonanywhere.com/link">
+  <img
+    src="https://shubhampsd.pythonanywhere.com?theme=dark&eq_color=ffffff"
+    alt="Current Spotify Song"
+  />
+</a>

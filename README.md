@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey 👋, I'm Shubham Prasad</h1>
-<h3 align="center">A commerce grad from India, trying to move into tech.</h3>
+<h1 align="left">Hey 👋, I'm Shubham Prasad</h1>
+<h3 align="left">A commerce grad from India, trying to move into tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampsd&label=Profile%20views&color=8ff0a4&style=flat-square" alt="shubhampsd" /> </p>
 

@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 <h1 align="left">Hey 👋, I'm Shubham Prasad</h1>
 <h3 align="left">A commerce grad from India, trying to move into tech.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampsd&label=Profile%20views&color=8ff0a4&style=flat-square" alt="shubhampsd" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shubhampsd" target="blank"><img src="https://img.shields.io/twitter/follow/shubhampsd?logo=twitter&style=for-the-badge" alt="shubhampsd" /></a> </p>
-
 - 🌱 I’m currently learning **anything AI/ML and data science.**
 
 - 💬 Ask me about **finance, computer hardware, linux and statistical analysis.**
 
 - 📫 How to reach me **psdshubham@proton.me**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampsd&label=Profile%20views&color=8ff0a4&style=flat-square" alt="shubhampsd" /></p>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/psdshubham?link=https%3A%2F%2Ftwitter.com%2Fpsdshubham)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **anything AI/ML and data science.**
 
+- Making my entire workflow privacy focused, open source and free. 
+
 - 💬 Ask me about **finance, computer hardware, linux and statistical analysis.**
 
-- 📫 How to reach me **psdshubham@proton.me**
+- 📫 How to reach me **shubhampsd@tuta.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

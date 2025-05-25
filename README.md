@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hey 👋, I'm Shubham Prasad</h1>
-<h3 align="left">A commerce grad from India, trying to move into tech.</h3>
+<h3 align="left">A finance and data science grad from India, trying to move into tech.</h3>
 
 - 🌱 I’m currently learning **anything AI/ML and data science.**
 
